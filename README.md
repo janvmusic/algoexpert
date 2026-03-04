@@ -53,6 +53,16 @@
 1. [Bubble Sort](./Javascript/sorting/easy/bubble-sort/)
 2. [Insertion Sort](./Javascript/sorting/easy/insertion-sort/)
 
+#### Strings
+
+1. [Palindrome Check](./Javascript/strings/easy/palindrome-check/)
+2. [Caesar Cipher Encryptor](./Javascript/strings/easy/caesar-cipher-encryptor/)
+3. [Run-Length Encoding](./Javascript/strings/easy/run-length-encoding/)
+4. [Common Characters](./Javascript/strings/easy/common-characters/)
+5. [Generate Document](./Javascript/strings/easy/generate-document/)
+6. [First Non-Repeating Character](./Javascript/strings/easy/first-non-repeating-character/)
+7. [Semordnilap](./Javascript/strings/easy/semordnilap/)
+
 ### Medium - Javascript
 
 #### Arrays
