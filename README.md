@@ -26,6 +26,13 @@
 
 1. [Depth First Search](./Javascript/graphs/easy/depth-first-search/)
 
+#### Greedy Algorithms
+
+1. [Minimum Waiting Time](./Javascript/greedy-algorithms/easy/minimum-waiting-time/)
+2. [Class Photos](./Javascript/greedy-algorithms/easy/class-photos/)
+3. [Tandem Bicycle](./Javascript/greedy-algorithms/easy/tandem-bicycle/)
+4. [Optimal Freelancing](./Javascript/greedy-algorithms/easy/optimal-freelancing/)
+
 ### Medium - Javascript
 
 #### Arrays
