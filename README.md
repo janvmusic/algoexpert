@@ -33,6 +33,26 @@
 3. [Tandem Bicycle](./Javascript/greedy-algorithms/easy/tandem-bicycle/)
 4. [Optimal Freelancing](./Javascript/greedy-algorithms/easy/optimal-freelancing/)
 
+#### Linked Lists
+
+1. [Remove Duplicates From Linked List](./Javascript/linked-lists/easy/remove-duplicates-from-linked-list/)
+2. [Middle Node](./Javascript/linked-lists/easy/middle-node/)
+
+#### Recursion
+
+1. [Nth Fibonacci](./Javascript/recursion/easy/nth-fibonacci/)
+2. [Product Sum](./Javascript/recursion/easy/product-sum/)
+
+#### Searching
+
+1. [Binary Search](./Javascript/searching/easy/binary-search/)
+2. [Find Three Largest Numbers](./Javascript/searching/easy/find-three-largest-numbers/)
+
+#### Sorting
+
+1. [Bubble Sort](./Javascript/sorting/easy/bubble-sort/)
+2. [Insertion Sort](./Javascript/sorting/easy/insertion-sort/)
+
 ### Medium - Javascript
 
 #### Arrays
