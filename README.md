@@ -22,6 +22,10 @@
 2. [Node Depths](./Javascript/binary-trees/easy/node-depths/)
 3. [Evaluate Expression Tree](./Javascript/binary-trees/easy/evaluate-expression-tree/)
 
+#### Graphs
+
+1. [Depth First Search](./Javascript/graphs/easy/depth-first-search/)
+
 ### Medium - Javascript
 
 #### Arrays
