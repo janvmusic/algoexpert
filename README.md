@@ -68,3 +68,16 @@
 #### Arrays
 
 1. [Smallest Difference](./Javascript/arrays/medium/smallest-difference/)
+2. [Three Number Sum](./Javascript/arrays/medium/three-number-sum/)
+3. [Move Element To End](./Javascript/arrays/medium/move-element-to-end/)
+4. [Monotonic Array](./Javascript/arrays/medium/monotonic-array/)
+5. [Spiral Traverse](./Javascript/arrays/medium/spiral-traverse/)
+6. [Longest Peak](./Javascript/arrays/medium/longest-peak/)
+7. [Array Of Products](./Javascript/arrays/medium/array-of-products/)
+8. [First Duplicate Value](./Javascript/arrays/medium/first-duplicate-value/)
+9. [Merge Overlapping Intervals](./Javascript/arrays/medium/merge-overlapping-intervals/)
+10. [Best Seat](./Javascript/arrays/medium/best-seat/)
+11. [Zero Sum Subarray](./Javascript/arrays/medium/zero-sum-subarray/)
+12. [Missing Numbers](./Javascript/arrays/medium/missing-numbers/)
+13. [Sweet And Savory](./Javascript/arrays/medium/sweet-and-savory/)
+14. [Majority Element](./Javascript/arrays/medium/majority-element/)
