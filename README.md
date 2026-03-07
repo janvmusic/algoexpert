@@ -1,7 +1,4 @@
 # Algo Expert
-
-## Summary
-
 Here's my journey through AlgoExpert platform, trying to learn on how to be ready for coding interviews
 
 If by any change you find this repo, help me to find a job. Here's my LinkedIn
