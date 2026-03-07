@@ -2,6 +2,11 @@
 
 ## Summary
 
+Here's my journey through AlgoExpert platform, trying to learn on how to be ready for coding interviews
+
+If by any change you find this repo, help me to find a job. Here's my LinkedIn
+[in/jorgeanunezv/](https://www.linkedin.com/in/jorgeanunezv/)
+
 ### Javascript
 
 - [Arrays](./Javascript/arrays/README.md)
