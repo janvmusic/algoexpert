@@ -10,3 +10,4 @@
 1. [Permutations](./medium/permutations/)
 2. [Powersets](./medium/powersets/)
 3. [Phone Number Mnemonics](./medium/phone-number-mnemonics/)
+4. [Staircase Traversal](./medium/staircase-traversal/)
