@@ -1,5 +1,12 @@
 # Linked Lists
 
+## Progress
+
+| Difficulty | Solved | Total | Bar                          | % |
+|------------|--------|-------|------------------------------|------|
+| Easy       | 2      | 2     | `████████████████████`       | 100% |
+| Medium     | 4      | 4     | `████████████████████`       | 100% |
+
 ## Easy
 
 1. [Remove Duplicates From Linked List](./easy/remove-duplicates-from-linked-list/)

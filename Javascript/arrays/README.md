@@ -1,5 +1,12 @@
 # Arrays
 
+## Progress
+
+| Difficulty | Solved | Total | Bar                          | % |
+|------------|--------|-------|------------------------------|-----|
+| Easy       | 5      | 6     | `█████████████████░░░`       | 83% |
+| Medium     | 14     | 14    | `████████████████████`       | 100% |
+
 ## Easy
 
 1. [Two Number Sum](./easy/two-number-sum/)

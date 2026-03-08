@@ -1,5 +1,12 @@
 # Recursion
 
+## Progress
+
+| Difficulty | Solved | Total | Bar                          | % |
+|------------|--------|-------|------------------------------|-----|
+| Easy       | 2      | 2     | `████████████████████`       | 100% |
+| Medium     | 4      | 6     | `█████████████░░░░░░░`       | 67% |
+
 ## Easy
 
 1. [Nth Fibonacci](./easy/nth-fibonacci/)
