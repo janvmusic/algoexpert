@@ -19,3 +19,4 @@
 3. [Phone Number Mnemonics](./medium/phone-number-mnemonics/)
 4. [Staircase Traversal](./medium/staircase-traversal/)
 5. [Reveal Minesweeper](./medium/reveal-minesweeper/)
+6. [Blackjack Probability](./medium/blackjack-probability/)
