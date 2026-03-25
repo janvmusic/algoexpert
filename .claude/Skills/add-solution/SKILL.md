@@ -11,7 +11,7 @@ Create a folder in the right place for the solution provided by the user
 
 1. **Ask for topic**: Request the user the topic of the problem
 2. **Get problem difficulty**: Request the user the url of this problem and gather difficulty
-3. **Ask for code solution**: Ask the code solution for the topic
+3. **Ask for code solution**: Ask the code solution for the topic. If the problem has two solutions, merge them in one file
 4. **Create folder**: From the solution take the name of the function and create a folder using kebab-style folder in the right difficulty
 5. **Add code**: Create an index.js and include the code passed as input
 6. **Add problem description**: Either receive problem description or ask for the image of the description and add it next to index.js
@@ -49,6 +49,9 @@ Create a folder in the right place for the solution provided by the user
 - When updating the readme remember to:
   - Update total metrics
   - Add the topic and the link under the right difficulty
+- If the solution has multiple solutions merged them in one file (index.js)
+  - Modify the solution function name with V1...Vn. Where n is the total solutions provided
+  - Remember to remove extra `export`s
 - Run the commit skill using the following message:
 
 ```
