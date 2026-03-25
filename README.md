@@ -4,7 +4,7 @@ Here's my journey through AlgoExpert platform, trying to learn on how to be read
 If by any change you find this repo, help me to find a job. Here's my LinkedIn
 [in/jorgeanunezv/](https://www.linkedin.com/in/jorgeanunezv/)
 
-### Total Problems Solved: 57
+### Total Problems Solved: 58
 
 ### Javascript
 
@@ -17,4 +17,5 @@ If by any change you find this repo, help me to find a job. Here's my LinkedIn
 - [Recursion](./Javascript/recursion/README.md)
 - [Searching](./Javascript/searching/README.md)
 - [Sorting](./Javascript/sorting/README.md)
+- [Stacks](./Javascript/stacks/README.md)
 - [Strings](./Javascript/strings/README.md)
