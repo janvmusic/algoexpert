@@ -4,7 +4,7 @@ Here's my journey through AlgoExpert platform, trying to learn on how to be read
 If by any change you find this repo, help me to find a job. Here's my LinkedIn
 [in/jorgeanunezv/](https://www.linkedin.com/in/jorgeanunezv/)
 
-### Total Problems Solved: 59
+### Total Problems Solved: 60
 
 ### Javascript
 
