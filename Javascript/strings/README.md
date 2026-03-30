@@ -1,12 +1,5 @@
 # Strings
 
-## Progress
-
-| Difficulty | Solved | Total | Bar                          | % |
-|------------|--------|-------|------------------------------|------|
-| Easy       | 7      | 7     | `████████████████████`       | 100% |
-| Medium     | 6      | 6     | `████████████████████`       | 100% |
-
 ## Easy
 
 1. [Palindrome Check](./easy/palindrome-check/)
