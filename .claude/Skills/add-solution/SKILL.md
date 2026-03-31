@@ -15,7 +15,8 @@ Create a folder in the right place for the solution provided by the user
 4. **Create folder**: From the solution take the name of the function and create a folder using kebab-style folder in the right difficulty
 5. **Add code**: Create an index.js and include the code passed as input
 6. **Add problem description**: Either receive problem description or ask for the image of the description and add it next to index.js
-7. **Commit changes**: Run commit skill to set the changes
+7. **Add readme**: After having the solution, the description image, add a new readme with both elements added
+8. **Commit changes**: Run commit skill to set the changes
 
 ### Topics
 
