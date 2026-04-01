@@ -10,3 +10,4 @@
 
 1. [Invert Binary Tree](./medium/invert-binary-tree/)
 2. [Binary Tree Diameter](./medium/binary-tree-diameter/)
+3. [Find Successor](./medium/find-successor/)
