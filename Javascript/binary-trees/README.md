@@ -13,3 +13,4 @@
 3. [Find Successor](./medium/find-successor/)
 4. [Height Balanced Binary Tree](./medium/height-balanced-binary-tree/)
 5. [Symmetrical Tree](./medium/symmetrical-tree/)
+6. [Merge Binary Trees](./medium/merge-binary-trees/)
