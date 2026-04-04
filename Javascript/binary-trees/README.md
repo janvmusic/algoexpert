@@ -12,3 +12,4 @@
 2. [Binary Tree Diameter](./medium/binary-tree-diameter/)
 3. [Find Successor](./medium/find-successor/)
 4. [Height Balanced Binary Tree](./medium/height-balanced-binary-tree/)
+5. [Symmetrical Tree](./medium/symmetrical-tree/)
