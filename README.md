@@ -14,6 +14,7 @@ If by any change you find this repo, help me to find a job. Here's my LinkedIn
 | [Binary Trees](./Javascript/binary-trees/README.md)           | Easy       | 3      | 3      | `████████████████████` | 100%    |
 |                                                               | Medium     | 7      | 7      | `████████████████████` | 100%    |
 | [BST](./Javascript/BST/README.md)                             | Easy       | 1      | 1      | `████████████████████` | 100%    |
+|                                                               | Medium     | 1      | 1      | `████████████████████` | 100%    |
 | [Graphs](./Javascript/graphs/README.md)                       | Easy       | 1      | 1      | `████████████████████` | 100%    |
 | [Greedy Algorithms](./Javascript/greedy-algorithms/README.md) | Easy       | 4      | 4      | `████████████████████` | 100%    |
 | [Linked Lists](./Javascript/linked-lists/README.md)           | Easy       | 2      | 2      | `████████████████████` | 100%    |
@@ -25,4 +26,4 @@ If by any change you find this repo, help me to find a job. Here's my LinkedIn
 | [Stacks](./Javascript/stacks/README.md)                       | Medium     | 8      | 8      | `████████████████████` | 100%    |
 | [Strings](./Javascript/strings/README.md)                     | Easy       | 7      | 7      | `████████████████████` | 100%    |
 |                                                               | Medium     | 6      | 6      | `████████████████████` | 100%    |
-| **Total**                                                     |            | **75** | **76** | `███████████████████░` | **99%** |
+| **Total**                                                     |            | **76** | **77** | `███████████████████░` | **99%** |
