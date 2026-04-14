@@ -7,3 +7,4 @@
 ## Medium
 
 1. [Validate BST](./medium/validate-bst/)
+2. [BST Traversal](./medium/bst-traversal/)
